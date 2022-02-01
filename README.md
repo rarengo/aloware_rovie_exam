@@ -1,24 +1,15 @@
-# rovie_phonebook
+# Installation
 
-## Project setup
-```
-yarn install
-```
+After cloning repo, run these commands below: 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+* yarn OR yarn install
+* yarn serve
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Used the following:
+vuex-persistedstate
+vuex
+vue
+moment
+lodash
+google-libphonenumber
