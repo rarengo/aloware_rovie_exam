@@ -7,9 +7,9 @@ After cloning repo, run these commands below:
 
 
 Used the following:
-vuex-persistedstate
-vuex
-vue
-moment
-lodash
-google-libphonenumber
+*vuex-persistedstate
+*vuex
+*vue
+*moment
+*lodash
+*google-libphonenumber
