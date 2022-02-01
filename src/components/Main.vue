@@ -86,6 +86,7 @@ export default {
     this.selectedSearch = value
    },
    onSearch() {
+     if(this.selectedSearch === null) return
      this.temporaryData = this.dataPhonebook.filter(obj => obj[this.selectedSearch].toLowerCase().includes(this.search.toLowerCase()))
    },
    onClick(content) {
